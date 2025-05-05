@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.crm</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>CRM-Back-End</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>demo</name>
 	<description>crm para cadastro de benef</description>
